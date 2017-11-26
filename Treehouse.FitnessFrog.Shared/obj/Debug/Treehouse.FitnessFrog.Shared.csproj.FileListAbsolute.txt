@@ -1,0 +1,11 @@
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\bin\Debug\Treehouse.FitnessFrog.Shared.dll.config
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\bin\Debug\Treehouse.FitnessFrog.Shared.dll
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\bin\Debug\Treehouse.FitnessFrog.Shared.pdb
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\bin\Debug\EntityFramework.dll
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\bin\Debug\EntityFramework.xml
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\obj\Debug\Treehouse.FitnessFrog.Shared.csprojResolveAssemblyReference.cache
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\obj\Debug\Treehouse.FitnessFrog.Shared.csproj.CoreCompileInputs.cache
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\obj\Debug\Treehouse.FitnessFrog.Shared.dll
+D:\Visual Studio\FitnessFrog\Treehouse.FitnessFrog.Shared\obj\Debug\Treehouse.FitnessFrog.Shared.pdb
